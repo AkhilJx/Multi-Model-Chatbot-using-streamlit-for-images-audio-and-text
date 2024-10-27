@@ -1,7 +1,4 @@
-https://console.groq.com/docs/models
-
-Supported Models
-GroqCloud currently supports the following models:
+The Models used in this code is as follows:
 
 1. Distil-Whisper English
 Model ID: distil-whisper-large-v3-en
