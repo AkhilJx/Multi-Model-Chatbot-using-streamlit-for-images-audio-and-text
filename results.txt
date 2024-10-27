@@ -126,3 +126,23 @@ I would greatly appreciate it if you could approve my request. If there are any 
 Thank you for considering my request.
 Sincerely,
 [Your Name]
+
+Audio: A Tamil audio from Tamil Movie Ghilli
+
+Model: whisper-large-v3
+I'll take care of the passport and everything for going to America. Okay? You sleep peacefully. I'll sleep on the bed. Good night.
+Hey, do you know whom you've attacked? I know. When the beach server is working, he'll get a thousand slaps.
+They came. They came? Hey, kill them.
+They tried. Hey, their father is a minister. The government is theirs.
+
+Image: An Image portrating wild Animals
+
+Model: llama-3.2-90b-vision-preview
+The image features a vibrant chart showcasing various wild animals, each accompanied by its name.
+The title "Wild Animals" is prominently displayed in large letters at the top of the chart,situated above three logos: a colorful hot air balloon, a red square with yellow stars, and a pink square with yellow stars. Below the title, the phrase "Smile Charts" is written in smaller text.
+
+The main content of the chart consists of 64 images of wild animals, arranged in eight rows and eight columns. Each animal is depicted in a realistic manner, 
+with some images featuring more than one individual. The animals are identified by their common names, which are written in black text below or above their corresponding images. The names include species such as Squirrel, Chipmunk, Porcupine, Hedgehog, Mongoose, Meerkat, Otter, Raccoon, Red panda, Monkey and infant, Fox, Jackal, Hyena, Deer, Scimitar Oryx, Wolf, Kangaroo and joey, Koala bear and joey, Jaguar, Cheetah, Tiger, Black Leopard, Leopard, Bear, Lion, Lioness and cubs, Rhinoceros and calf, Polar bear and cub, Panda, Zebra and foal, Bison, Hippopotamus, Chimpanzee, Elephant, Wombat, Giraffe, and Possum.
+
+In the bottom-left corner of the chart, there is a small logo featuring a hot air balloon with a smiley face, accompanied by the text "www.thesmiley.com". 
+Below this logo, additional text provides information about the publisher's website and copyright details. In the bottom-right corner, a barcode is visible, along with some illegible text. The background of the chart is white, providing a clean and neutral backdrop for the colorful images and text. Overall, the chart appears to be an educational resource designed to teach children about different types of wild animals and their characteristics.
