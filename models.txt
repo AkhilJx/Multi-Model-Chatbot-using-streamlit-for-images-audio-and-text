@@ -26,11 +26,6 @@ Developer: Groq
 Context Window: 8,192 tokens
 
 6.Llama 3.1 405B
-Offline due to overwhelming demand! Stay tuned for updates.
-Llama 3.1 70B
-Model ID: llama-3.1-70b-versatile
-Developer: Meta
-Context Window: 128k tokens (max_tokens limited to 8k)
 
 7.Llama 3.1 8B
 Model ID: llama-3.1-8b-instant
@@ -91,3 +86,8 @@ File Size: 25 MB
 Model ID: whisper-large-v3-turbo
 Developer: OpenAI
 File Size: 25 MB
+
+19. Llama 3.1 70B
+Model ID: llama-3.1-70b-versatile
+Developer: Meta
+Context Window: 128k tokens (max_tokens limited to 8k)
