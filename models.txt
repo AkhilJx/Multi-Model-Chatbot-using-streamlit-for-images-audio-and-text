@@ -1,0 +1,96 @@
+https://console.groq.com/docs/models
+
+Supported Models
+GroqCloud currently supports the following models:
+
+1. Distil-Whisper English
+Model ID: distil-whisper-large-v3-en
+Developer: HuggingFace
+Max File Size: 25 MB
+
+2.Gemma 2 9B
+Model ID: gemma2-9b-it
+Developer: Google
+Context Window: 8,192 tokens
+
+3.Gemma 7B
+Model ID: gemma-7b-it
+Developer: Google
+Context Window: 8,192 tokens
+
+4.Llama 3 Groq 70B Tool Use (Preview)
+Model ID: llama3-groq-70b-8192-tool-use-preview
+Developer: Groq
+Context Window: 8,192 tokens
+
+5.Llama 3 Groq 8B Tool Use (Preview)
+Model ID: llama3-groq-8b-8192-tool-use-preview
+Developer: Groq
+Context Window: 8,192 tokens
+
+6.Llama 3.1 405B
+Offline due to overwhelming demand! Stay tuned for updates.
+Llama 3.1 70B
+Model ID: llama-3.1-70b-versatile
+Developer: Meta
+Context Window: 128k tokens (max_tokens limited to 8k)
+
+7.Llama 3.1 8B
+Model ID: llama-3.1-8b-instant
+Developer: Meta
+Context Window: 128k tokens (max_tokens limited to 8k)
+
+8.Llama 3.2 1B (Preview)
+Model ID: llama-3.2-1b-preview
+Developer: Meta
+Context Window: 128k tokens (temporarily limited to 8k in preview)
+
+9.Llama 3.2 3B (Preview)
+Model ID: llama-3.2-3b-preview
+Developer: Meta
+Context Window: 128k tokens (temporarily limited to 8k in preview)
+
+10.Llama 3.2 11B Vision (Preview)
+Model ID: llama-3.2-11b-vision-preview
+Developer: Meta
+Context Window: 128k tokens (temporarily limited to 8k in preview)
+
+11.Llama 3.2 90B (Preview)
+Model ID: llama-3.2-90b-vision-preview
+Developer: Meta
+Context Window: 128k tokens (temporarily limited to 8k in preview)
+
+12.Llama Guard 3 8B
+Model ID: llama-guard-3-8b
+Developer: Meta
+Context Window: 8,192 tokens
+
+13.LLaVA 1.5 7B
+Model ID: llava-v1.5-7b-4096-preview
+Developer: Haotian Liu
+Context Window: 4,096 tokens
+
+14.Meta Llama 3 70B
+Model ID: llama3-70b-8192
+Developer: Meta
+Context Window: 8,192 tokens
+
+15.Meta Llama 3 8B
+Model ID: llama3-8b-8192
+Developer: Meta
+Context Window: 8,192 tokens
+
+16.Mixtral 8x7B
+Model ID: mixtral-8x7b-32768
+Developer: Mistral
+Context Window: 32,768 tokens
+
+17.Whisper Large V3
+Model ID: whisper-large-v3
+Developer: OpenAI
+File Size: 25 MB
+
+18.Whisper Large V3 Turbo
+Model ID: whisper-large-v3-turbo
+Developer: OpenAI
+File Size: 25 MB
